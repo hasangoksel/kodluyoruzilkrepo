@@ -5,7 +5,9 @@ Bu repo [Kodluyoruz](https://app.patika.dev/courses/git/odev1) Front-End eğitim
 ``` 
 git clone https://github.com/hasangoksel/kodluyoruzilkrepo.git 
 ```
- ## Usage Projeyi klonladıktan sonra Visual Studio Code programını açınız. Linux için: 
+ ## Usage 
+ Projeyi klonladıktan sonra Visual Studio Code programını açınız. 
+ Linux için: 
  ``` 
  cd kodluyoruzilkrepo code . 
  ``` 
